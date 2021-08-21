@@ -55,6 +55,58 @@ body {
     line-height: 2rem;
 }
 
+.my-portfolio {
+    margin-top: 80px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+
+.my-portfolio h2 {
+    background: rgb(53, 53, 53);
+    color: white;
+    width: 17%;
+    height: 30px;
+    padding: 8px;
+}
+
+.my-portfolio li {
+    margin: 20px;
+    margin-top: 40px;
+    font-size: 1.1rem;
+}
+
+.my-portfolio li a {
+    text-decoration: none;
+    color: black;
+}
+
+.project-done {
+    margin-top: 80px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+
+.project-done h2 {
+    background: rgb(53, 53, 53);
+    color: white;
+    width: 18%;
+    height: 30px;
+    padding: 8px;
+}
+
+.project-done li {
+    margin: 20px;
+    margin-top: 40px;
+    font-size: 1.1rem;
+}
+
+.project-done li a {
+    text-decoration: none;
+    color: black;
+}
+
 .work-experience {
     margin-top: 80px;
     margin-right: 150px;
@@ -78,6 +130,7 @@ body {
 
 .header h3 a {
     text-decoration: none;
+    color: black;
 }
 
 .work-experience p {
