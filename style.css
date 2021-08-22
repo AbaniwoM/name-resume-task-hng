@@ -246,6 +246,36 @@ body {
         width: 42%;
     }
 
+    .my-portfolio {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .my-portfolio h2 {
+        width: 62%;
+    }
+
+    .my-portfolio li  {
+        margin-left: -40px;
+        list-style-type: none;
+    }
+
+    .project-done {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .project-done li  {
+        margin-left: -40px;
+        list-style-type: none;
+    }
+
+    .project-done h2 {
+        width: 66%;
+    }
+
     .work-experience {
         margin: 5px;
         width: 90%;
@@ -341,6 +371,34 @@ body {
 
     .summary h2 {
         width: 36%;
+    }
+
+    .my-portfolio {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .my-portfolio h2 {
+        width: 54%;
+    }
+
+    .my-portfolio li  {
+        margin-left: -10px;
+    }
+
+    .project-done {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .project-done li  {
+        margin-left: -10px;
+    }
+
+    .project-done h2 {
+        width: 56%;
     }
 
     .work-experience {
@@ -445,6 +503,34 @@ body {
         width: 32%;
     }
 
+    .my-portfolio {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .my-portfolio h2 {
+        width: 47%;
+    }
+
+    .my-portfolio li  {
+        margin-left: -10px;
+    }
+
+    .project-done {
+        margin: 5px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .project-done li  {
+        margin-left: -10px;
+    }
+
+    .project-done h2 {
+        width: 49%;
+    }
+
     .work-experience {
         margin: 5px;
         width: 95%;
@@ -509,6 +595,7 @@ body {
     .logo img {
         width: 40%;
         margin-left: 40px;
+        margin-top: 30px;
     }
 
     .name {
@@ -547,6 +634,30 @@ body {
 
     .summary h2 {
         width: 18%;
+    }
+
+    .my-portfolio {
+        margin: 40px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .my-portfolio h2 {
+        width: 26%;
+    }
+
+    .project-done {
+        margin: 40px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .project-done li  {
+        margin-left: 20px;
+    }
+
+    .project-done h2 {
+        width: 27%;
     }
 
     .work-experience {
@@ -598,7 +709,6 @@ body {
     .skills h2 {
         width: 11%;
     }
-    
 }
 
 @media screen and (max-width: 1024px) and (min-width: 769px) {
@@ -614,6 +724,7 @@ body {
     .logo img {
         width: 40%;
         margin-left: 60px;
+        margin-top: 30px;
     }
 
     .name {
@@ -652,6 +763,34 @@ body {
 
     .summary h2 {
         width: 13%;
+    }
+
+    .my-portfolio {
+        margin: 60px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .my-portfolio h2 {
+        width: 26%;
+    }
+
+    .my-portfolio li  {
+        margin-left: 40px;
+    }
+
+    .project-done {
+        margin: 60px;
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .project-done li  {
+        margin-left: 40px;
+    }
+
+    .project-done h2 {
+        width: 27%;
     }
 
     .work-experience {
